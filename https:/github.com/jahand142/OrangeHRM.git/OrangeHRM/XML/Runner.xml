@@ -1,0 +1,18 @@
+<suite name="Smoke Test">
+	<test name="First Test Run">
+		<groups>
+			<run>
+				<include name="Odd" />
+			</run>
+		</groups>
+		
+		<classes>
+			<class name="practice.HookPractice2" />
+		</classes>
+	</test>
+
+
+
+
+
+</suite>

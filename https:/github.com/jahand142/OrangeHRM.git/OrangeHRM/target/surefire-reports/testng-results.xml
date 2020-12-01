@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7860" started-at="2020-11-19T23:40:24Z" finished-at="2020-11-19T23:40:32Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7860" started-at="2020-11-19T23:40:24Z" finished-at="2020-11-19T23:40:32Z">
+      <class name="testRun.PracticeTest">
+        <test-method status="PASS" signature="fristTest()[pri:0, instance:testRun.PracticeTest@3d24753a]" name="fristTest" duration-ms="7835" started-at="2020-11-19T23:40:24Z" finished-at="2020-11-19T23:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fristTest -->
+      </class> <!-- testRun.PracticeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
